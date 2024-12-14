@@ -2,7 +2,10 @@
 !*/
 !*.*
 
-.vscode
+.vscode/
+*.pyc
+input*.txt
+test*.txt
 
 # Prerequisites
 *.d
